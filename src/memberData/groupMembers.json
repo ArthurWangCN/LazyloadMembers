@@ -1,0 +1,2530 @@
+[{
+    "id": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "realName": "协创平台研发部",
+    "pId": "",
+    "type": 1
+  },
+  {
+    "id": "6cf0fae3-b04a-4c9b-ae23-80f40c1210bf",
+    "realName": "陈海龙",
+    "userName": "CHL11016",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/6cf0fae3-b04a-4c9b-ae23-80f40c1210bf",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "7527aaf0-35d5-4ca7-a7bd-02cce43b6642",
+    "realName": "陈亮6196",
+    "userName": "CL6196",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/7527aaf0-35d5-4ca7-a7bd-02cce43b6642",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "8bce4987-741a-419b-9a5c-3d99a49d5197",
+    "realName": "李江博",
+    "userName": "LJB10313",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/8bce4987-741a-419b-9a5c-3d99a49d5197",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "9c62bc8c-e4c7-4433-b163-03db6c404cd2",
+    "realName": "孔喆鑫",
+    "userName": "KZX9430",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/9c62bc8c-e4c7-4433-b163-03db6c404cd2",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "48be4967-c33f-444a-bc28-49a82de42c8a",
+    "realName": "薛文红",
+    "userName": "XWH8894",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/48be4967-c33f-444a-bc28-49a82de42c8a",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "d18fab37-5a2a-4f32-a576-cb61587d05f0",
+    "realName": "吴雪飞",
+    "userName": "WXF9795",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d18fab37-5a2a-4f32-a576-cb61587d05f0",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "074e123f-7b25-40b5-8281-4048492fd96c",
+    "realName": "孙涛11735",
+    "userName": "ST11735",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/074e123f-7b25-40b5-8281-4048492fd96c",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "85ec5508-86c0-4fed-abb4-e0df02f8cd86",
+    "realName": "王艳杰",
+    "userName": "WYJ8946",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/85ec5508-86c0-4fed-abb4-e0df02f8cd86",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "d8a277f8-5d6b-4792-9720-3df313caa80e",
+    "realName": "王金彪",
+    "userName": "WJB10189",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d8a277f8-5d6b-4792-9720-3df313caa80e",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "1b6bfb1e-682e-4c9b-a4b4-8a20ab9d5466",
+    "realName": "都珍艳",
+    "userName": "DZY11198",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/1b6bfb1e-682e-4c9b-a4b4-8a20ab9d5466",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "85f1ea84-ea37-4929-9d5e-34bc301eec3b",
+    "realName": "王依",
+    "userName": "WY12539",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/85f1ea84-ea37-4929-9d5e-34bc301eec3b",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "28917cd2-ba50-4d40-9e48-cf246f8f2520",
+    "realName": "李智慧",
+    "userName": "LIZH",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/28917cd2-ba50-4d40-9e48-cf246f8f2520",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "c7aae231-78e2-4a50-8940-b36ee1105fcc",
+    "realName": "艾鑫",
+    "userName": "AIXIN",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c7aae231-78e2-4a50-8940-b36ee1105fcc",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "8cd23b5b-d38b-482e-9bce-2658bcd55a31",
+    "realName": "石亚茹",
+    "userName": "SYR10579",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/8cd23b5b-d38b-482e-9bce-2658bcd55a31",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "2ea98cdf-0487-47f1-a54e-4e7608e12ee8",
+    "realName": "屈东奇",
+    "userName": "QDQ11642",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/2ea98cdf-0487-47f1-a54e-4e7608e12ee8",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "a75bb14c-562f-4f11-8c71-deed08e11b58",
+    "realName": "刘文文",
+    "userName": "LWW11031",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a75bb14c-562f-4f11-8c71-deed08e11b58",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "c329c29d-e72b-4d92-b173-d9502a57432d",
+    "realName": "周晓冬",
+    "userName": "ZXD6702",
+    "type": 0,
+    "pId": "5417abdd-a597-4ff3-ac68-5c5d74a2c524",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c329c29d-e72b-4d92-b173-d9502a57432d",
+    "department": "协创平台研发部"
+  },
+  {
+    "id": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "realName": "12312",
+    "pId": "",
+    "type": 1
+  },
+  {
+    "id": "2f0f95cf-6f57-492e-9692-edc781478788",
+    "realName": "刘海亮",
+    "userName": "LHL10098",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/2f0f95cf-6f57-492e-9692-edc781478788",
+    "department": "12312"
+  },
+  {
+    "id": "33deee49-f472-483e-a97b-c99ffaccd0ee",
+    "realName": "丁虹星",
+    "userName": "DHX10844",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/33deee49-f472-483e-a97b-c99ffaccd0ee",
+    "department": "12312"
+  },
+  {
+    "id": "f34b225f-9a4d-4a76-8294-5934cedcc5f4",
+    "realName": "卢家敬",
+    "userName": "LJJ9149",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/f34b225f-9a4d-4a76-8294-5934cedcc5f4",
+    "department": "12312"
+  },
+  {
+    "id": "2187d329-c628-4a86-a3c0-f4bb0694c6b2",
+    "realName": "郭广英",
+    "userName": "GUOGY",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/2187d329-c628-4a86-a3c0-f4bb0694c6b2",
+    "department": "12312"
+  },
+  {
+    "id": "e9628e2d-4077-4ee1-9a10-ed4f65e4fc26",
+    "realName": "薛超",
+    "userName": "XC11467",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e9628e2d-4077-4ee1-9a10-ed4f65e4fc26",
+    "department": "12312"
+  },
+  {
+    "id": "a41eb01f-67c2-4f0a-baf2-60950d1d4a36",
+    "realName": "秦伟",
+    "userName": "QW10234",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a41eb01f-67c2-4f0a-baf2-60950d1d4a36",
+    "department": "12312"
+  },
+  {
+    "id": "b175e749-b726-4966-ba35-d89b0cdc05b9",
+    "realName": "冯乐鹏",
+    "userName": "FLP9877",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/b175e749-b726-4966-ba35-d89b0cdc05b9",
+    "department": "12312"
+  },
+  {
+    "id": "6f4fd698-6a6a-4041-947e-2a088be683f0",
+    "realName": "李瑞",
+    "userName": "LR10491",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/6f4fd698-6a6a-4041-947e-2a088be683f0",
+    "department": "12312"
+  },
+  {
+    "id": "8d58e63a-c79f-45b4-aa32-c3221c40d17a",
+    "realName": "王长春",
+    "userName": "WCC10188",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/8d58e63a-c79f-45b4-aa32-c3221c40d17a",
+    "department": "12312"
+  },
+  {
+    "id": "0c9b62e7-9906-4ed8-985c-56ca83508be1",
+    "realName": "商东东",
+    "userName": "SDD11672",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/0c9b62e7-9906-4ed8-985c-56ca83508be1",
+    "department": "12312"
+  },
+  {
+    "id": "d1d2aa3d-a1e3-4433-9725-4e349f2e0088",
+    "realName": "代宁",
+    "userName": "DAINING",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d1d2aa3d-a1e3-4433-9725-4e349f2e0088",
+    "department": "12312"
+  },
+  {
+    "id": "38272cc5-e3fd-4bc8-ae08-581fe6b1174b",
+    "realName": "黄嗣源",
+    "userName": "HSY7705",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/38272cc5-e3fd-4bc8-ae08-581fe6b1174b",
+    "department": "12312"
+  },
+  {
+    "id": "4986d588-68db-408d-9c9a-a4c9342047d5",
+    "realName": "易涛10113",
+    "userName": "YT10113",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/4986d588-68db-408d-9c9a-a4c9342047d5",
+    "department": "12312"
+  },
+  {
+    "id": "f39485d0-6f1f-4376-b4cb-3248df1d9d64",
+    "realName": "周宇",
+    "userName": "ZY10397",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/f39485d0-6f1f-4376-b4cb-3248df1d9d64",
+    "department": "12312"
+  },
+  {
+    "id": "95b0cc80-1960-4baa-aaa7-02ab85753ce0",
+    "realName": "陈立杰",
+    "userName": "CLJ7082",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/95b0cc80-1960-4baa-aaa7-02ab85753ce0",
+    "department": "12312"
+  },
+  {
+    "id": "59c27019-6c21-424c-bfec-b2a764964793",
+    "realName": "李梦月",
+    "userName": "LMY11376",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/59c27019-6c21-424c-bfec-b2a764964793",
+    "department": "12312"
+  },
+  {
+    "id": "de7d22ba-b064-4998-9234-fa5a0c8a101d",
+    "realName": "李云江",
+    "userName": "LYJ6239",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/de7d22ba-b064-4998-9234-fa5a0c8a101d",
+    "department": "12312"
+  },
+  {
+    "id": "793c9866-7697-495b-9995-f1cad2fb30c4",
+    "realName": "申强宾",
+    "userName": "SQB10190",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/793c9866-7697-495b-9995-f1cad2fb30c4",
+    "department": "12312"
+  },
+  {
+    "id": "5f617918-b0f9-48bf-808d-28fa96729308",
+    "realName": "石玮婷",
+    "userName": "SWT8451",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/5f617918-b0f9-48bf-808d-28fa96729308",
+    "department": "12312"
+  },
+  {
+    "id": "a9d8bfc8-f91c-4cdc-ba8c-4864c95c4631",
+    "realName": "孔凡多",
+    "userName": "KFD11053",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a9d8bfc8-f91c-4cdc-ba8c-4864c95c4631",
+    "department": "12312"
+  },
+  {
+    "id": "f3ecb0d6-1a19-468f-a75c-67d3b353f19f",
+    "realName": "崔刘佳",
+    "userName": "CLJ9790",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/f3ecb0d6-1a19-468f-a75c-67d3b353f19f",
+    "department": "12312"
+  },
+  {
+    "id": "22e34bd9-81f5-49be-a727-9046a7d7a4cd",
+    "realName": "魏强刚",
+    "userName": "WEIQG",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/22e34bd9-81f5-49be-a727-9046a7d7a4cd",
+    "department": "12312"
+  },
+  {
+    "id": "31eda220-71a0-4fd8-a2be-662e8253498e",
+    "realName": "张丽芳",
+    "userName": "ZHANGLF",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/31eda220-71a0-4fd8-a2be-662e8253498e",
+    "department": "12312"
+  },
+  {
+    "id": "20b5bfa3-5117-4be0-afef-ea6170a2c8d3",
+    "realName": "王翠婷",
+    "userName": "WCT7591",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/20b5bfa3-5117-4be0-afef-ea6170a2c8d3",
+    "department": "12312"
+  },
+  {
+    "id": "9cf6b5ce-a4ad-4b23-abc6-ebf1c234203d",
+    "realName": "田峥",
+    "userName": "TZ9578",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/9cf6b5ce-a4ad-4b23-abc6-ebf1c234203d",
+    "department": "12312"
+  },
+  {
+    "id": "702e0841-eb28-4500-916a-14b18a5fb7d6",
+    "realName": "段飞虎",
+    "userName": "DUANFH",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/702e0841-eb28-4500-916a-14b18a5fb7d6",
+    "department": "12312"
+  },
+  {
+    "id": "e6a2cf0a-2b36-4837-9831-b77237d59785",
+    "realName": "李娜10175",
+    "userName": "LN10175",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e6a2cf0a-2b36-4837-9831-b77237d59785",
+    "department": "12312"
+  },
+  {
+    "id": "c5637815-d69f-4857-ab56-6af5d90954b6",
+    "realName": "王志翔",
+    "userName": "WZX9283",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c5637815-d69f-4857-ab56-6af5d90954b6",
+    "department": "12312"
+  },
+  {
+    "id": "e69f1dbf-c38a-4baa-bb85-403a61f3f703",
+    "realName": "刘爽10471",
+    "userName": "LS10471",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e69f1dbf-c38a-4baa-bb85-403a61f3f703",
+    "department": "12312"
+  },
+  {
+    "id": "c84c84f4-c19c-48fc-8ee4-1b554f4c0bdb",
+    "realName": "宋青",
+    "userName": "SQ6041",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c84c84f4-c19c-48fc-8ee4-1b554f4c0bdb",
+    "department": "12312"
+  },
+  {
+    "id": "07fa4a3b-73fd-4e68-b716-b011c9a14d7b",
+    "realName": "孙娜",
+    "userName": "SN5851",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/07fa4a3b-73fd-4e68-b716-b011c9a14d7b",
+    "department": "12312"
+  },
+  {
+    "id": "46b70f80-7525-48ba-97b6-febd8ef3a74d",
+    "realName": "韩伟",
+    "userName": "HW9444",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/46b70f80-7525-48ba-97b6-febd8ef3a74d",
+    "department": "12312"
+  },
+  {
+    "id": "5dfb2ab2-a9c5-4eec-b172-8409c36104f1",
+    "realName": "李迎",
+    "userName": "LIYING01",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/5dfb2ab2-a9c5-4eec-b172-8409c36104f1",
+    "department": "12312"
+  },
+  {
+    "id": "c3f67bc6-5b8e-4aaf-8837-0f7aadb953d2",
+    "realName": "范真真",
+    "userName": "FZZ9296",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c3f67bc6-5b8e-4aaf-8837-0f7aadb953d2",
+    "department": "12312"
+  },
+  {
+    "id": "1ef61459-9829-4618-82da-998ebbfca2b8",
+    "realName": "靳素伟",
+    "userName": "JINSW",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/1ef61459-9829-4618-82da-998ebbfca2b8",
+    "department": "12312"
+  },
+  {
+    "id": "3cd5f6cb-a4ee-4574-bcf2-6b559ef503d9",
+    "realName": "刘红阳",
+    "userName": "LHY11408",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/3cd5f6cb-a4ee-4574-bcf2-6b559ef503d9",
+    "department": "12312"
+  },
+  {
+    "id": "b105124b-a811-47fc-bd75-e9f4612157d5",
+    "realName": "谢业浩",
+    "userName": "XYH11539",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/b105124b-a811-47fc-bd75-e9f4612157d5",
+    "department": "12312"
+  },
+  {
+    "id": "716e3b3c-3193-455d-a214-6effd95afdbc",
+    "realName": "申中伟",
+    "userName": "SZW8568",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/716e3b3c-3193-455d-a214-6effd95afdbc",
+    "department": "12312"
+  },
+  {
+    "id": "d246c22e-7dd3-44e4-b394-2c5b99cd3de1",
+    "realName": "汪汝霖",
+    "userName": "WRL10294",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d246c22e-7dd3-44e4-b394-2c5b99cd3de1",
+    "department": "12312"
+  },
+  {
+    "id": "ca7f7f4e-3e06-4b1a-bd71-911fb66fe51d",
+    "realName": "季超",
+    "userName": "JC6339",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ca7f7f4e-3e06-4b1a-bd71-911fb66fe51d",
+    "department": "12312"
+  },
+  {
+    "id": "49f31d56-150e-4dce-b85d-e9a9cbb65ea6",
+    "realName": "路阳",
+    "userName": "LY10081",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/49f31d56-150e-4dce-b85d-e9a9cbb65ea6",
+    "department": "12312"
+  },
+  {
+    "id": "355fc238-0614-449d-a5e9-e63954cab342",
+    "realName": "李慧民",
+    "userName": "LHM10112",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/355fc238-0614-449d-a5e9-e63954cab342",
+    "department": "12312"
+  },
+  {
+    "id": "4f31a51e-7526-4bbe-ae0c-5dcdcfdc6c88",
+    "realName": "道自明",
+    "userName": "DZM7050",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/4f31a51e-7526-4bbe-ae0c-5dcdcfdc6c88",
+    "department": "12312"
+  },
+  {
+    "id": "e20f1668-1d22-4dc2-8607-a036a1d8efd7",
+    "realName": "柳中峰",
+    "userName": "LZF11197",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e20f1668-1d22-4dc2-8607-a036a1d8efd7",
+    "department": "12312"
+  },
+  {
+    "id": "c32ab5dc-da51-44af-8518-dd55334ce0ea",
+    "realName": "张雷5121",
+    "userName": "ZL5121",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c32ab5dc-da51-44af-8518-dd55334ce0ea",
+    "department": "12312"
+  },
+  {
+    "id": "c90fdaf5-b3d4-47d2-9405-ba114ab07730",
+    "realName": "王蓉10382",
+    "userName": "WR10382",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c90fdaf5-b3d4-47d2-9405-ba114ab07730",
+    "department": "12312"
+  },
+  {
+    "id": "a3900f49-ff8f-49fb-9288-6d66e7bc09fd",
+    "realName": "李长利",
+    "userName": "LCL11013",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a3900f49-ff8f-49fb-9288-6d66e7bc09fd",
+    "department": "12312"
+  },
+  {
+    "id": "17922d74-47e0-4be5-81ed-9f6ae1dfe651",
+    "realName": "贾成川11107",
+    "userName": "JCC11107",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/17922d74-47e0-4be5-81ed-9f6ae1dfe651",
+    "department": "12312"
+  },
+  {
+    "id": "4bcf0133-68dd-455b-960e-2e2f348ccd72",
+    "realName": "范萍",
+    "userName": "FP11489",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/4bcf0133-68dd-455b-960e-2e2f348ccd72",
+    "department": "12312"
+  },
+  {
+    "id": "c725bb88-24d1-4105-b63c-8f70f015d9f0",
+    "realName": "宋彬",
+    "userName": "SB10097",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c725bb88-24d1-4105-b63c-8f70f015d9f0",
+    "department": "12312"
+  },
+  {
+    "id": "1c7bd4fc-1f80-4289-95f7-1ea4f2441c4d",
+    "realName": "高峰10921",
+    "userName": "GF10921",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/1c7bd4fc-1f80-4289-95f7-1ea4f2441c4d",
+    "department": "12312"
+  },
+  {
+    "id": "b71cfb4f-bc5c-4a4c-abbb-fe9ffc027144",
+    "realName": "黄欢平",
+    "userName": "HHP8825",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/b71cfb4f-bc5c-4a4c-abbb-fe9ffc027144",
+    "department": "12312"
+  },
+  {
+    "id": "fb06b776-166e-4924-a5be-168c8b6dae15",
+    "realName": "李伟健",
+    "userName": "LWJ8170",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/fb06b776-166e-4924-a5be-168c8b6dae15",
+    "department": "12312"
+  },
+  {
+    "id": "6674864a-97dd-4bc8-972d-7f31c095d4ab",
+    "realName": "孙常莹",
+    "userName": "SUNCY",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/6674864a-97dd-4bc8-972d-7f31c095d4ab",
+    "department": "12312"
+  },
+  {
+    "id": "2e718854-ecaa-4bde-8dfe-3c0f100a86fb",
+    "realName": "测试账号",
+    "userName": "CSZH9900",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/2e718854-ecaa-4bde-8dfe-3c0f100a86fb",
+    "department": "12312"
+  },
+  {
+    "id": "690f7fa2-1324-4fd9-8f86-e85ea7e62200",
+    "realName": "王云涛",
+    "userName": "WYT10425",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/690f7fa2-1324-4fd9-8f86-e85ea7e62200",
+    "department": "12312"
+  },
+  {
+    "id": "a9286bcc-2209-489f-bea8-6546b891c87a",
+    "realName": "刁鹏飞",
+    "userName": "DPF10274",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a9286bcc-2209-489f-bea8-6546b891c87a",
+    "department": "12312"
+  },
+  {
+    "id": "026dd126-f051-4130-8474-154b205c615e",
+    "realName": "陈超",
+    "userName": "CC9945",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/026dd126-f051-4130-8474-154b205c615e",
+    "department": "12312"
+  },
+  {
+    "id": "f41af488-2d06-4749-b327-d79426174dd9",
+    "realName": "向庆",
+    "userName": "XQ10181",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/f41af488-2d06-4749-b327-d79426174dd9",
+    "department": "12312"
+  },
+  {
+    "id": "0d421c73-793c-4a8f-b28f-7121afe61d1a",
+    "realName": "王旭10957",
+    "userName": "WX10957",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/0d421c73-793c-4a8f-b28f-7121afe61d1a",
+    "department": "12312"
+  },
+  {
+    "id": "4e00d3b0-d579-4dfc-9e6e-df27a1dca45d",
+    "realName": "魏彤",
+    "userName": "WT11256",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/4e00d3b0-d579-4dfc-9e6e-df27a1dca45d",
+    "department": "12312"
+  },
+  {
+    "id": "359ac73b-451b-49d8-9311-ab2fb49f91b1",
+    "realName": "刘雪冰",
+    "userName": "LXB7089",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/359ac73b-451b-49d8-9311-ab2fb49f91b1",
+    "department": "12312"
+  },
+  {
+    "id": "46de4385-3ec6-4786-8ea1-a341d2328fef",
+    "realName": "贾宝军",
+    "userName": "JBJ7132",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/46de4385-3ec6-4786-8ea1-a341d2328fef",
+    "department": "12312"
+  },
+  {
+    "id": "1c9d412d-f779-4686-ad1d-a5b857606604",
+    "realName": "王亚伟",
+    "userName": "WYW11542",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/1c9d412d-f779-4686-ad1d-a5b857606604",
+    "department": "12312"
+  },
+  {
+    "id": "63d15c46-3fce-45b0-8317-6a6ec0cf305b",
+    "realName": "杨佳林",
+    "userName": "YJL11359",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/63d15c46-3fce-45b0-8317-6a6ec0cf305b",
+    "department": "12312"
+  },
+  {
+    "id": "9dc36e4d-4fc7-479f-9918-e01877131fe0",
+    "realName": "陆驿",
+    "userName": "LY9446",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/9dc36e4d-4fc7-479f-9918-e01877131fe0",
+    "department": "12312"
+  },
+  {
+    "id": "fba09fb6-adaa-47c0-a917-e4d38b967ab4",
+    "realName": "谢朋林",
+    "userName": "XPLX0066",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/fba09fb6-adaa-47c0-a917-e4d38b967ab4",
+    "department": "12312"
+  },
+  {
+    "id": "cb3cb57f-57ee-48ef-accd-671c1833d851",
+    "realName": "李欣睿",
+    "userName": "LXR11488",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/cb3cb57f-57ee-48ef-accd-671c1833d851",
+    "department": "12312"
+  },
+  {
+    "id": "d2e40b92-84c4-488a-b9ea-73c343d970fe",
+    "realName": "李亮11276",
+    "userName": "LL11276",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d2e40b92-84c4-488a-b9ea-73c343d970fe",
+    "department": "12312"
+  },
+  {
+    "id": "622d5843-efbf-4358-8b54-266a5e1942a0",
+    "realName": "曹怡轩",
+    "userName": "CYX11674",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/622d5843-efbf-4358-8b54-266a5e1942a0",
+    "department": "12312"
+  },
+  {
+    "id": "d4bd8cee-32da-405b-b3c5-39cf97ec60a6",
+    "realName": "许盈",
+    "userName": "XY11821",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d4bd8cee-32da-405b-b3c5-39cf97ec60a6",
+    "department": "12312"
+  },
+  {
+    "id": "269279e3-f002-4284-9668-9b03670835e1",
+    "realName": "张钰",
+    "userName": "ZY8176",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/269279e3-f002-4284-9668-9b03670835e1",
+    "department": "12312"
+  },
+  {
+    "id": "914b9663-396f-4c3d-954c-9ec9e0144c87",
+    "realName": "李长兰",
+    "userName": "LICL01",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/914b9663-396f-4c3d-954c-9ec9e0144c87",
+    "department": "12312"
+  },
+  {
+    "id": "c9940e2d-eac4-45ed-bd62-4e4c8cc03150",
+    "realName": "高彬",
+    "userName": "GB11262",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c9940e2d-eac4-45ed-bd62-4e4c8cc03150",
+    "department": "12312"
+  },
+  {
+    "id": "e1af987b-bd7d-429a-ba93-7ba96027b3b9",
+    "realName": "张冠",
+    "userName": "ZGX1113",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e1af987b-bd7d-429a-ba93-7ba96027b3b9",
+    "department": "12312"
+  },
+  {
+    "id": "4662be4f-256c-49df-8438-065012ec7e17",
+    "realName": "贾世鹏",
+    "userName": "JSP10956",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/4662be4f-256c-49df-8438-065012ec7e17",
+    "department": "12312"
+  },
+  {
+    "id": "6146e966-1173-475f-ad60-04cfda91aa3f",
+    "realName": "刘彦军",
+    "userName": "LYJ6577",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/6146e966-1173-475f-ad60-04cfda91aa3f",
+    "department": "12312"
+  },
+  {
+    "id": "bad9c8d1-829c-4329-b276-5bf497953f67",
+    "realName": "王粤",
+    "userName": "WY11734",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/bad9c8d1-829c-4329-b276-5bf497953f67",
+    "department": "12312"
+  },
+  {
+    "id": "712f269a-0b5b-4c69-a18c-689500520e15",
+    "realName": "宋世伟",
+    "userName": "SSW10218",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/712f269a-0b5b-4c69-a18c-689500520e15",
+    "department": "12312"
+  },
+  {
+    "id": "bb2a5822-8a4c-4840-af0d-3bcd5d57fa3d",
+    "realName": "陈震",
+    "userName": "CZ8790",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/bb2a5822-8a4c-4840-af0d-3bcd5d57fa3d",
+    "department": "12312"
+  },
+  {
+    "id": "41106740-2a6b-4272-9390-fe2ba95edd68",
+    "realName": "阴晓鹏",
+    "userName": "YINXP",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/41106740-2a6b-4272-9390-fe2ba95edd68",
+    "department": "12312"
+  },
+  {
+    "id": "5c74cb26-da38-4fa9-aa9a-f11b2557bd40",
+    "realName": "王燕朋",
+    "userName": "WYP10140",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/5c74cb26-da38-4fa9-aa9a-f11b2557bd40",
+    "department": "12312"
+  },
+  {
+    "id": "feb18137-15a8-4331-af7a-0f3ea1e2ff75",
+    "realName": "隋奕",
+    "userName": "SUIYI",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/feb18137-15a8-4331-af7a-0f3ea1e2ff75",
+    "department": "12312"
+  },
+  {
+    "id": "b909bb40-2e05-41ed-9303-94170cf76b14",
+    "realName": "聂正平",
+    "userName": "NZP10217",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/b909bb40-2e05-41ed-9303-94170cf76b14",
+    "department": "12312"
+  },
+  {
+    "id": "36bd8d41-6db1-4540-b380-b0e784c89340",
+    "realName": "任巧丽",
+    "userName": "RQL11275",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/36bd8d41-6db1-4540-b380-b0e784c89340",
+    "department": "12312"
+  },
+  {
+    "id": "6557643f-d1ab-4604-981f-79be3e895346",
+    "realName": "吴晨",
+    "userName": "WUCHEN",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/6557643f-d1ab-4604-981f-79be3e895346",
+    "department": "12312"
+  },
+  {
+    "id": "580f861f-d28e-40f0-880e-55e13f906f0e",
+    "realName": "张辉",
+    "userName": "ZH8859",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/580f861f-d28e-40f0-880e-55e13f906f0e",
+    "department": "12312"
+  },
+  {
+    "id": "4e122f80-cd7b-480c-8ead-402c69da022c",
+    "realName": "郭文瑞",
+    "userName": "GWR10328",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/4e122f80-cd7b-480c-8ead-402c69da022c",
+    "department": "12312"
+  },
+  {
+    "id": "b2d4d353-665f-459a-b87b-4ce4faf1a02d",
+    "realName": "苟家俊",
+    "userName": "GJJ11450",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/b2d4d353-665f-459a-b87b-4ce4faf1a02d",
+    "department": "12312"
+  },
+  {
+    "id": "c16babcd-37a4-4393-82fa-0bdb71c531c8",
+    "realName": "任彩云",
+    "userName": "RCY9356",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c16babcd-37a4-4393-82fa-0bdb71c531c8",
+    "department": "12312"
+  },
+  {
+    "id": "19ecf304-d63e-4724-966e-5f23014d9d3f",
+    "realName": "郭凤池",
+    "userName": "GUOFC",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/19ecf304-d63e-4724-966e-5f23014d9d3f",
+    "department": "12312"
+  },
+  {
+    "id": "1160241d-9253-4961-9a12-d92264ceac6e",
+    "realName": "张恒",
+    "userName": "ZH10681",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/1160241d-9253-4961-9a12-d92264ceac6e",
+    "department": "12312"
+  },
+  {
+    "id": "aa82ad16-d6d4-4348-9a87-233940d4c8a9",
+    "realName": "邢进",
+    "userName": "XJ9702",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/aa82ad16-d6d4-4348-9a87-233940d4c8a9",
+    "department": "12312"
+  },
+  {
+    "id": "107dca15-ef41-4a4a-b769-816e3b6445ed",
+    "realName": "任广凯",
+    "userName": "RGK9965",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/107dca15-ef41-4a4a-b769-816e3b6445ed",
+    "department": "12312"
+  },
+  {
+    "id": "35ad5e62-da68-4476-bc4d-b183d4986e0e",
+    "realName": "颜琼",
+    "userName": "YANQIONG",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/35ad5e62-da68-4476-bc4d-b183d4986e0e",
+    "department": "12312"
+  },
+  {
+    "id": "f1be720f-d601-4dc9-99b9-f1414dd7aa27",
+    "realName": "宋晓丽",
+    "userName": "SXL7300",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/f1be720f-d601-4dc9-99b9-f1414dd7aa27",
+    "department": "12312"
+  },
+  {
+    "id": "a096d7a3-6bbc-40cd-ac87-1d31bfdd7600",
+    "realName": "陈慧",
+    "userName": "CH6981",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a096d7a3-6bbc-40cd-ac87-1d31bfdd7600",
+    "department": "12312"
+  },
+  {
+    "id": "d6a7790c-317e-4737-b8e8-ebf4d49d015e",
+    "realName": "韩松",
+    "userName": "HS9186",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d6a7790c-317e-4737-b8e8-ebf4d49d015e",
+    "department": "12312"
+  },
+  {
+    "id": "e9b4b6c4-b9f2-4336-b509-f593bfbe76fa",
+    "realName": "龙海稳",
+    "userName": "LHW7593",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e9b4b6c4-b9f2-4336-b509-f593bfbe76fa",
+    "department": "12312"
+  },
+  {
+    "id": "e21231be-ca16-4620-b41a-16a25f4f28cb",
+    "realName": "刘雨翀",
+    "userName": "LYZ6217",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e21231be-ca16-4620-b41a-16a25f4f28cb",
+    "department": "12312"
+  },
+  {
+    "id": "ffd9a36f-defc-43bb-9fe7-339b734667d2",
+    "realName": "王高丽",
+    "userName": "WGL10628",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ffd9a36f-defc-43bb-9fe7-339b734667d2",
+    "department": "12312"
+  },
+  {
+    "id": "5f465a7a-fced-42e6-a940-7621021178e0",
+    "realName": "郑在兴",
+    "userName": "ZZX10147",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/5f465a7a-fced-42e6-a940-7621021178e0",
+    "department": "12312"
+  },
+  {
+    "id": "79544631-251d-4a1e-9c96-db1f00718c98",
+    "realName": "盛晓禹",
+    "userName": "SXY6450",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/79544631-251d-4a1e-9c96-db1f00718c98",
+    "department": "12312"
+  },
+  {
+    "id": "42ccd63b-d0fe-4f26-bbbc-d50f05ac1903",
+    "realName": "张媛媛",
+    "userName": "ZYY6209",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/42ccd63b-d0fe-4f26-bbbc-d50f05ac1903",
+    "department": "12312"
+  },
+  {
+    "id": "6a6f87ac-f2bb-41ca-be15-7b54281074bb",
+    "realName": "陈华",
+    "userName": "CHENHUA01",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/6a6f87ac-f2bb-41ca-be15-7b54281074bb",
+    "department": "12312"
+  },
+  {
+    "id": "79df9cfd-a97a-4c4e-afff-fa73c8035842",
+    "realName": "邱军磊",
+    "userName": "QJL10987",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/79df9cfd-a97a-4c4e-afff-fa73c8035842",
+    "department": "12312"
+  },
+  {
+    "id": "20f0611a-0f96-44df-acd6-d5196dc70a30",
+    "realName": "吴霞",
+    "userName": "WXX0006",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/20f0611a-0f96-44df-acd6-d5196dc70a30",
+    "department": "12312"
+  },
+  {
+    "id": "938bb934-829e-45d4-87ac-65bf3b12baa8",
+    "realName": "李维娜",
+    "userName": "LWN8067",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/938bb934-829e-45d4-87ac-65bf3b12baa8",
+    "department": "12312"
+  },
+  {
+    "id": "a0528da9-11a7-4115-87e0-9a388a5cc6e7",
+    "realName": "赵伟伟",
+    "userName": "ZWW10289",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a0528da9-11a7-4115-87e0-9a388a5cc6e7",
+    "department": "12312"
+  },
+  {
+    "id": "6cd005fd-c12b-427c-b24f-dd194b15c588",
+    "realName": "陆红",
+    "userName": "LH9923",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/6cd005fd-c12b-427c-b24f-dd194b15c588",
+    "department": "12312"
+  },
+  {
+    "id": "53a3c2a7-dd18-4776-a30e-f27b055f3396",
+    "realName": "张嘉锋",
+    "userName": "ZJF9440",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/53a3c2a7-dd18-4776-a30e-f27b055f3396",
+    "department": "12312"
+  },
+  {
+    "id": "d6d3e669-df42-4083-a5c0-778a6f013bb9",
+    "realName": "程晓园",
+    "userName": "CHENGXY",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d6d3e669-df42-4083-a5c0-778a6f013bb9",
+    "department": "12312"
+  },
+  {
+    "id": "ed670ec7-f4ad-457f-a6a9-e84f2bd10e1b",
+    "realName": "马焕菲",
+    "userName": "MHF9211",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ed670ec7-f4ad-457f-a6a9-e84f2bd10e1b",
+    "department": "12312"
+  },
+  {
+    "id": "8c4d4343-b53f-4648-9a45-7ed340d992a8",
+    "realName": "张庆国",
+    "userName": "ZHANGQG",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/8c4d4343-b53f-4648-9a45-7ed340d992a8",
+    "department": "12312"
+  },
+  {
+    "id": "e6c72ac3-3f7f-4612-993b-427d8823f2e7",
+    "realName": "何佳",
+    "userName": "HJ10186",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e6c72ac3-3f7f-4612-993b-427d8823f2e7",
+    "department": "12312"
+  },
+  {
+    "id": "69e08575-1848-4ce5-9bf4-2169fd85f396",
+    "realName": "李娇娇",
+    "userName": "LJJ9961",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/69e08575-1848-4ce5-9bf4-2169fd85f396",
+    "department": "12312"
+  },
+  {
+    "id": "2201dd58-13da-4dba-93ca-1bf110200140",
+    "realName": "李胜杰",
+    "userName": "LSJ11589",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/2201dd58-13da-4dba-93ca-1bf110200140",
+    "department": "12312"
+  },
+  {
+    "id": "4af3da88-a697-4092-86be-1a1e8b028ae3",
+    "realName": "孔维营",
+    "userName": "KWY9156",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/4af3da88-a697-4092-86be-1a1e8b028ae3",
+    "department": "12312"
+  },
+  {
+    "id": "d74d7ba2-8136-496d-a167-d23c266a7912",
+    "realName": "刘绍禹",
+    "userName": "LIUSY",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d74d7ba2-8136-496d-a167-d23c266a7912",
+    "department": "12312"
+  },
+  {
+    "id": "ab9f3b20-b554-4897-9e7a-d248c6599b65",
+    "realName": "郝震",
+    "userName": "HZ10553",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ab9f3b20-b554-4897-9e7a-d248c6599b65",
+    "department": "12312"
+  },
+  {
+    "id": "805f9b5f-57c4-40b7-8adb-efeb95dd82c6",
+    "realName": "刘一",
+    "userName": "LYX1190",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/805f9b5f-57c4-40b7-8adb-efeb95dd82c6",
+    "department": "12312"
+  },
+  {
+    "id": "7f3f02a5-c481-4015-aca8-eb0e77f8177b",
+    "realName": "史朋亮",
+    "userName": "SPL6295",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/7f3f02a5-c481-4015-aca8-eb0e77f8177b",
+    "department": "12312"
+  },
+  {
+    "id": "69e90794-d30f-421c-aea3-ee1bacccc65f",
+    "realName": "崔萌芳",
+    "userName": "CMF9878",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/69e90794-d30f-421c-aea3-ee1bacccc65f",
+    "department": "12312"
+  },
+  {
+    "id": "f6bbc311-c67b-48e7-8dbd-de5cdf713e2b",
+    "realName": "陈泉",
+    "userName": "CQ9443",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/f6bbc311-c67b-48e7-8dbd-de5cdf713e2b",
+    "department": "12312"
+  },
+  {
+    "id": "c200c42e-f7dd-44e8-9802-a94a38454127",
+    "realName": "吴盼盼",
+    "userName": "WPP10345",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c200c42e-f7dd-44e8-9802-a94a38454127",
+    "department": "12312"
+  },
+  {
+    "id": "87b24714-c6a8-475d-accf-a61b96bc76c4",
+    "realName": "邱菊",
+    "userName": "QJ6709",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/87b24714-c6a8-475d-accf-a61b96bc76c4",
+    "department": "12312"
+  },
+  {
+    "id": "6d55b00e-2bcc-4a3a-9691-84f56166e7e0",
+    "realName": "刘畅11470",
+    "userName": "LC11470",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/6d55b00e-2bcc-4a3a-9691-84f56166e7e0",
+    "department": "12312"
+  },
+  {
+    "id": "e6d5fba9-d7a6-44da-ba89-08f68235c7fb",
+    "realName": "屈永硕",
+    "userName": "QYS9241",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e6d5fba9-d7a6-44da-ba89-08f68235c7fb",
+    "department": "12312"
+  },
+  {
+    "id": "cfa774dd-f6ae-4714-b2fc-8a060f31d998",
+    "realName": "赵江艳",
+    "userName": "ZJY10185",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/cfa774dd-f6ae-4714-b2fc-8a060f31d998",
+    "department": "12312"
+  },
+  {
+    "id": "d4b6fd6e-0fe8-4b41-964c-b7a2f7eec3eb",
+    "realName": "石晶",
+    "userName": "SJ9445",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d4b6fd6e-0fe8-4b41-964c-b7a2f7eec3eb",
+    "department": "12312"
+  },
+  {
+    "id": "eef91e50-d57b-449c-a360-27fbc1ada3e0",
+    "realName": "张碧珣",
+    "userName": "ZBZ6173",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/eef91e50-d57b-449c-a360-27fbc1ada3e0",
+    "department": "12312"
+  },
+  {
+    "id": "7111b577-798c-4fec-95e4-dcab734b994e",
+    "realName": "陈翔",
+    "userName": "CX11451",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/7111b577-798c-4fec-95e4-dcab734b994e",
+    "department": "12312"
+  },
+  {
+    "id": "9908bd39-1286-4e0a-9f62-7a599a2cd129",
+    "realName": "田燕",
+    "userName": "TIANYAN",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/9908bd39-1286-4e0a-9f62-7a599a2cd129",
+    "department": "12312"
+  },
+  {
+    "id": "2cf1550d-0c1a-4765-9fef-75e18183745a",
+    "realName": "冯自强",
+    "userName": "FENGZQ",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/2cf1550d-0c1a-4765-9fef-75e18183745a",
+    "department": "12312"
+  },
+  {
+    "id": "232ed7eb-2751-41a8-9a4c-8e0235a7d6d4",
+    "realName": "王林杰",
+    "userName": "WLJ9277",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/232ed7eb-2751-41a8-9a4c-8e0235a7d6d4",
+    "department": "12312"
+  },
+  {
+    "id": "16e7f5bd-0218-453e-8ad7-7fc7db815074",
+    "realName": "刘宝玉",
+    "userName": "LBY11455",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/16e7f5bd-0218-453e-8ad7-7fc7db815074",
+    "department": "12312"
+  },
+  {
+    "id": "c3c686e0-f54c-42f0-aa78-c9c1746b9b6f",
+    "realName": "梁家伟",
+    "userName": "LJW10400",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c3c686e0-f54c-42f0-aa78-c9c1746b9b6f",
+    "department": "12312"
+  },
+  {
+    "id": "c560bed6-3fa5-4950-977c-14fdb7a2c057",
+    "realName": "蔡郧",
+    "userName": "CAIYUN",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c560bed6-3fa5-4950-977c-14fdb7a2c057",
+    "department": "12312"
+  },
+  {
+    "id": "d03fbf3f-a190-465d-95c7-05978dc56317",
+    "realName": "柳延旭",
+    "userName": "LYX10021",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d03fbf3f-a190-465d-95c7-05978dc56317",
+    "department": "12312"
+  },
+  {
+    "id": "a97c53cc-4c1b-4e96-8a00-f044b18b95b1",
+    "realName": "黄振",
+    "userName": "HZ8787",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a97c53cc-4c1b-4e96-8a00-f044b18b95b1",
+    "department": "12312"
+  },
+  {
+    "id": "ae7d22ee-a296-41ba-a057-646017d7b02b",
+    "realName": "阿丽米热艾力",
+    "userName": "ALMRAL11891",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ae7d22ee-a296-41ba-a057-646017d7b02b",
+    "department": "12312"
+  },
+  {
+    "id": "da1fb21c-3426-4e44-b22b-d63f13fcfc79",
+    "realName": "王旭",
+    "userName": "WANGXU01",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/da1fb21c-3426-4e44-b22b-d63f13fcfc79",
+    "department": "12312"
+  },
+  {
+    "id": "ca60a76f-48dd-4fb7-9578-ddae2db6e0f3",
+    "realName": "刘旭",
+    "userName": "LX5340",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ca60a76f-48dd-4fb7-9578-ddae2db6e0f3",
+    "department": "12312"
+  },
+  {
+    "id": "fea49e78-278b-4883-851b-cf56b4565d0a",
+    "realName": "李云鹏",
+    "userName": "LIYP",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/fea49e78-278b-4883-851b-cf56b4565d0a",
+    "department": "12312"
+  },
+  {
+    "id": "e9dac477-d3b2-4581-a24e-9222a00d1b5d",
+    "realName": "宋显会",
+    "userName": "SXH5918",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e9dac477-d3b2-4581-a24e-9222a00d1b5d",
+    "department": "12312"
+  },
+  {
+    "id": "191bf740-b1b3-49a7-bfeb-5bb776920897",
+    "realName": "朱青",
+    "userName": "ZQ11671",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/191bf740-b1b3-49a7-bfeb-5bb776920897",
+    "department": "12312"
+  },
+  {
+    "id": "67fc8c06-4da1-4709-8abf-505676dba139",
+    "realName": "王小娟",
+    "userName": "WANGXJ",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/67fc8c06-4da1-4709-8abf-505676dba139",
+    "department": "12312"
+  },
+  {
+    "id": "7419f6b9-4a7c-42d9-a15b-7c20658a742f",
+    "realName": "赵胜男",
+    "userName": "ZSN7288",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/7419f6b9-4a7c-42d9-a15b-7c20658a742f",
+    "department": "12312"
+  },
+  {
+    "id": "f6f8cfd1-bb68-4846-bd8c-7e6a4a03cb45",
+    "realName": "林雪",
+    "userName": "LX6208",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/f6f8cfd1-bb68-4846-bd8c-7e6a4a03cb45",
+    "department": "12312"
+  },
+  {
+    "id": "a6da7844-696b-4340-9d14-72b5296c6ac6",
+    "realName": "孙凤军",
+    "userName": "SFJ8234",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a6da7844-696b-4340-9d14-72b5296c6ac6",
+    "department": "12312"
+  },
+  {
+    "id": "b7bdc8b0-e735-43d3-915a-e63325fb737a",
+    "realName": "朱涛",
+    "userName": "ZT11392",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/b7bdc8b0-e735-43d3-915a-e63325fb737a",
+    "department": "12312"
+  },
+  {
+    "id": "c399e6ce-00f4-4be1-b80d-f8496041c341",
+    "realName": "宁绍安",
+    "userName": "NSA6449",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c399e6ce-00f4-4be1-b80d-f8496041c341",
+    "department": "12312"
+  },
+  {
+    "id": "1de159f2-f652-44cd-994a-cfa8141c311a",
+    "realName": "张照文",
+    "userName": "ZZW9875",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/1de159f2-f652-44cd-994a-cfa8141c311a",
+    "department": "12312"
+  },
+  {
+    "id": "f48050b8-7c46-4513-9677-409d08374dd7",
+    "realName": "杨佳",
+    "userName": "YJ10235",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/f48050b8-7c46-4513-9677-409d08374dd7",
+    "department": "12312"
+  },
+  {
+    "id": "2a8f1690-4530-4a97-97b9-d2141bcbc82f",
+    "realName": "胡江宁",
+    "userName": "HJN9197",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/2a8f1690-4530-4a97-97b9-d2141bcbc82f",
+    "department": "12312"
+  },
+  {
+    "id": "d71a9909-2b40-4515-a8e2-be6abd79f7a1",
+    "realName": "张亚斌",
+    "userName": "ZHANGYB",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d71a9909-2b40-4515-a8e2-be6abd79f7a1",
+    "department": "12312"
+  },
+  {
+    "id": "a285ca64-100f-48ef-8849-e9b453877806",
+    "realName": "乔驰",
+    "userName": "QC11424",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a285ca64-100f-48ef-8849-e9b453877806",
+    "department": "12312"
+  },
+  {
+    "id": "68cc418b-f654-4c0b-bc3d-b4a10a9b411f",
+    "realName": "尹青云",
+    "userName": "YQY9010",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/68cc418b-f654-4c0b-bc3d-b4a10a9b411f",
+    "department": "12312"
+  },
+  {
+    "id": "5aad4379-927a-4f47-a99f-4c1bfb1b5c0a",
+    "realName": "任伟",
+    "userName": "RW6674",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/5aad4379-927a-4f47-a99f-4c1bfb1b5c0a",
+    "department": "12312"
+  },
+  {
+    "id": "e702c48d-f23a-4df9-be7d-b186825dfb50",
+    "realName": "王超",
+    "userName": "WC9774",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e702c48d-f23a-4df9-be7d-b186825dfb50",
+    "department": "12312"
+  },
+  {
+    "id": "f7309922-de39-4b55-ab08-40395e35d9cd",
+    "realName": "郜文菁",
+    "userName": "GWJ8256",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/f7309922-de39-4b55-ab08-40395e35d9cd",
+    "department": "12312"
+  },
+  {
+    "id": "065df6b7-a588-4e70-951d-b8de4ec0de5c",
+    "realName": "熊秋燕",
+    "userName": "XQY6476",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/065df6b7-a588-4e70-951d-b8de4ec0de5c",
+    "department": "12312"
+  },
+  {
+    "id": "8e617d33-3640-444d-a05e-33742bae7341",
+    "realName": "徐永潜",
+    "userName": "XUYQ",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/8e617d33-3640-444d-a05e-33742bae7341",
+    "department": "12312"
+  },
+  {
+    "id": "e785a7b7-8524-44eb-8d85-d7ba4f053354",
+    "realName": "刘珺",
+    "userName": "LB9741",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e785a7b7-8524-44eb-8d85-d7ba4f053354",
+    "department": "12312"
+  },
+  {
+    "id": "3ab43439-f3e4-4936-af24-c52c44e1c738",
+    "realName": "李烨韬",
+    "userName": "LYT11156",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/3ab43439-f3e4-4936-af24-c52c44e1c738",
+    "department": "12312"
+  },
+  {
+    "id": "e0ab1fb2-8685-4f79-8644-7034cf4af47d",
+    "realName": "职云帆",
+    "userName": "ZYF9675",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e0ab1fb2-8685-4f79-8644-7034cf4af47d",
+    "department": "12312"
+  },
+  {
+    "id": "78f5a052-abe7-4d2f-823e-487e9771c311",
+    "realName": "丁益炜",
+    "userName": "DYW9874",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/78f5a052-abe7-4d2f-823e-487e9771c311",
+    "department": "12312"
+  },
+  {
+    "id": "3d33d80f-f742-4db9-9ae6-dcc9a7109eee",
+    "realName": "罗智远",
+    "userName": "LZY11458",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/3d33d80f-f742-4db9-9ae6-dcc9a7109eee",
+    "department": "12312"
+  },
+  {
+    "id": "a63faa76-1263-40ee-9210-0fc74132a2f2",
+    "realName": "何朝辉",
+    "userName": "HECH",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a63faa76-1263-40ee-9210-0fc74132a2f2",
+    "department": "12312"
+  },
+  {
+    "id": "df9d4e35-a481-463d-aaf0-881a4011961e",
+    "realName": "何晴",
+    "userName": "HQ10492",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/df9d4e35-a481-463d-aaf0-881a4011961e",
+    "department": "12312"
+  },
+  {
+    "id": "1e6a9dea-4961-4bc1-b086-fb32ec46e695",
+    "realName": "蒋广宁",
+    "userName": "JGN11266",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/1e6a9dea-4961-4bc1-b086-fb32ec46e695",
+    "department": "12312"
+  },
+  {
+    "id": "9336fd31-a29b-4ae1-bf64-e39c66d0db69",
+    "realName": "张双艳",
+    "userName": "ZSY5501",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/9336fd31-a29b-4ae1-bf64-e39c66d0db69",
+    "department": "12312"
+  },
+  {
+    "id": "3ef3d4cf-28cf-43c7-ab88-b6fdaac1d1d6",
+    "realName": "黄祖一",
+    "userName": "HZY8736",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/3ef3d4cf-28cf-43c7-ab88-b6fdaac1d1d6",
+    "department": "12312"
+  },
+  {
+    "id": "eaeb4217-9d56-40a8-abf6-11ae2305c9a7",
+    "realName": "刘莎莎",
+    "userName": "LSS10976",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/eaeb4217-9d56-40a8-abf6-11ae2305c9a7",
+    "department": "12312"
+  },
+  {
+    "id": "3c4e7300-33a3-484e-8cbe-d764f59faff8",
+    "realName": "李萍7234",
+    "userName": "LP7234",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/3c4e7300-33a3-484e-8cbe-d764f59faff8",
+    "department": "12312"
+  },
+  {
+    "id": "46e93b44-e8a3-4ca0-8c1a-052b9d724df4",
+    "realName": "常晓婷",
+    "userName": "CXT6832",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/46e93b44-e8a3-4ca0-8c1a-052b9d724df4",
+    "department": "12312"
+  },
+  {
+    "id": "c94dbac4-50b2-43a4-b8e2-8cd50f20fb88",
+    "realName": "李嘉",
+    "userName": "LJ6244",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c94dbac4-50b2-43a4-b8e2-8cd50f20fb88",
+    "department": "12312"
+  },
+  {
+    "id": "08872c8e-eee8-476c-8ac4-11d73fbb12d9",
+    "realName": "印东敏",
+    "userName": "YDM8711",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/08872c8e-eee8-476c-8ac4-11d73fbb12d9",
+    "department": "12312"
+  },
+  {
+    "id": "e0ea4420-740d-4dc3-9986-8e1be555a9cb",
+    "realName": "陈彦霖",
+    "userName": "CYL9743",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e0ea4420-740d-4dc3-9986-8e1be555a9cb",
+    "department": "12312"
+  },
+  {
+    "id": "d4faeba2-9761-482e-b85f-6dce38bcaa26",
+    "realName": "杨烨",
+    "userName": "YANGYE",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d4faeba2-9761-482e-b85f-6dce38bcaa26",
+    "department": "12312"
+  },
+  {
+    "id": "21dde0ee-f7c3-4e25-8a95-c3f9091e2009",
+    "realName": "谭超",
+    "userName": "TC10078",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/21dde0ee-f7c3-4e25-8a95-c3f9091e2009",
+    "department": "12312"
+  },
+  {
+    "id": "a3da2ca2-90c5-413c-ab5e-80d63db14ad0",
+    "realName": "邓凤",
+    "userName": "DF9019",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a3da2ca2-90c5-413c-ab5e-80d63db14ad0",
+    "department": "12312"
+  },
+  {
+    "id": "ca1616e2-6ef0-4b79-a16f-2a08ec5686e3",
+    "realName": "李永超",
+    "userName": "LIYC01",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ca1616e2-6ef0-4b79-a16f-2a08ec5686e3",
+    "department": "12312"
+  },
+  {
+    "id": "d9baf76d-bed2-46af-8c05-cc0567e7bbd5",
+    "realName": "康欢",
+    "userName": "KH9073",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d9baf76d-bed2-46af-8c05-cc0567e7bbd5",
+    "department": "12312"
+  },
+  {
+    "id": "29711d0c-5b9b-4d62-9b2d-1fe29ef06274",
+    "realName": "郎志国",
+    "userName": "LANGZG",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/29711d0c-5b9b-4d62-9b2d-1fe29ef06274",
+    "department": "12312"
+  },
+  {
+    "id": "5fb674e3-4c73-4b7b-8f63-79818432b6ba",
+    "realName": "冯姝雯",
+    "userName": "FSW8368",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/5fb674e3-4c73-4b7b-8f63-79818432b6ba",
+    "department": "12312"
+  },
+  {
+    "id": "690aae0a-b6ad-411f-95f7-e3c858f9f34f",
+    "realName": "胡殿魏",
+    "userName": "HDW7735",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/690aae0a-b6ad-411f-95f7-e3c858f9f34f",
+    "department": "12312"
+  },
+  {
+    "id": "6b0ab821-9e77-4767-9589-2bf1ce15fccf",
+    "realName": "杨世亨",
+    "userName": "YSH11092",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/6b0ab821-9e77-4767-9589-2bf1ce15fccf",
+    "department": "12312"
+  },
+  {
+    "id": "09bbe051-8b76-491d-a0e3-6a8c5d6d592e",
+    "realName": "曹言波",
+    "userName": "CYB10554",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/09bbe051-8b76-491d-a0e3-6a8c5d6d592e",
+    "department": "12312"
+  },
+  {
+    "id": "ebdf450f-4722-471b-9d5e-aada369794b6",
+    "realName": "张曦6492",
+    "userName": "ZXX0014",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ebdf450f-4722-471b-9d5e-aada369794b6",
+    "department": "12312"
+  },
+  {
+    "id": "ebf616dc-00e0-4856-94b9-d09f8e91d47e",
+    "realName": "王彦迪",
+    "userName": "WYD10174",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ebf616dc-00e0-4856-94b9-d09f8e91d47e",
+    "department": "12312"
+  },
+  {
+    "id": "7e661658-ef6f-4cb1-9a70-47c65a436b01",
+    "realName": "李小鹏",
+    "userName": "LXP8864",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/7e661658-ef6f-4cb1-9a70-47c65a436b01",
+    "department": "12312"
+  },
+  {
+    "id": "3d037c7d-b463-46e2-b8f4-3b38cb7966af",
+    "realName": "张经纬",
+    "userName": "ZJW10636",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/3d037c7d-b463-46e2-b8f4-3b38cb7966af",
+    "department": "12312"
+  },
+  {
+    "id": "e5a990af-9a5a-466f-8c6b-9570fee83b44",
+    "realName": "李琳碧",
+    "userName": "LLB11279",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e5a990af-9a5a-466f-8c6b-9570fee83b44",
+    "department": "12312"
+  },
+  {
+    "id": "bb614593-aa98-48d1-bdfd-4b1ab351e974",
+    "realName": "马学冬",
+    "userName": "MXD11406",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/bb614593-aa98-48d1-bdfd-4b1ab351e974",
+    "department": "12312"
+  },
+  {
+    "id": "ef243974-5d84-44c4-bf5c-c9d611c06b15",
+    "realName": "蒋义红",
+    "userName": "JYH7694",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ef243974-5d84-44c4-bf5c-c9d611c06b15",
+    "department": "12312"
+  },
+  {
+    "id": "46815ef2-4a17-489f-bd7d-5e72408b005b",
+    "realName": "姜和",
+    "userName": "JH7737",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/46815ef2-4a17-489f-bd7d-5e72408b005b",
+    "department": "12312"
+  },
+  {
+    "id": "8b7509b9-9b6b-48e3-9f06-528a0d02aee5",
+    "realName": "高飞",
+    "userName": "GF10012",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/8b7509b9-9b6b-48e3-9f06-528a0d02aee5",
+    "department": "12312"
+  },
+  {
+    "id": "79c4f945-d301-4373-9872-c31b59357a02",
+    "realName": "范艳兵",
+    "userName": "FYB11487",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/79c4f945-d301-4373-9872-c31b59357a02",
+    "department": "12312"
+  },
+  {
+    "id": "5fd84feb-d17d-4a24-8aa4-398e904bc417",
+    "realName": "胡磊",
+    "userName": "HL11260",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/5fd84feb-d17d-4a24-8aa4-398e904bc417",
+    "department": "12312"
+  },
+  {
+    "id": "562d7b89-ef01-46f9-aa1a-c9ec6f9eb16e",
+    "realName": "郝慧晓",
+    "userName": "HHX8850",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/562d7b89-ef01-46f9-aa1a-c9ec6f9eb16e",
+    "department": "12312"
+  },
+  {
+    "id": "d0a42e93-cbf6-49ea-9404-2af09d74cd4f",
+    "realName": "赵剑",
+    "userName": "ZJ5303",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d0a42e93-cbf6-49ea-9404-2af09d74cd4f",
+    "department": "12312"
+  },
+  {
+    "id": "91394739-2cba-45c1-b703-d11242e4dc34",
+    "realName": "张宏伟",
+    "userName": "ZHANGHW",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/91394739-2cba-45c1-b703-d11242e4dc34",
+    "department": "12312"
+  },
+  {
+    "id": "3166e2cc-06df-4a35-a704-12029f5ea2a3",
+    "realName": "姜新华",
+    "userName": "JIANGXH",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/3166e2cc-06df-4a35-a704-12029f5ea2a3",
+    "department": "12312"
+  },
+  {
+    "id": "0d36b917-d0a1-4712-bb1c-7d30b4f03b8a",
+    "realName": "吴洋漾",
+    "userName": "WYY7602",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/0d36b917-d0a1-4712-bb1c-7d30b4f03b8a",
+    "department": "12312"
+  },
+  {
+    "id": "c9564069-94f7-4911-b0a6-41107326fe4a",
+    "realName": "张昀",
+    "userName": "ZY10352",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c9564069-94f7-4911-b0a6-41107326fe4a",
+    "department": "12312"
+  },
+  {
+    "id": "27210bf5-8a26-4b8a-ae27-895798dd6d1c",
+    "realName": "宿晓宇",
+    "userName": "SXY6224",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/27210bf5-8a26-4b8a-ae27-895798dd6d1c",
+    "department": "12312"
+  },
+  {
+    "id": "ce3ea1d7-a8f6-45e7-b3ba-e8965a255570",
+    "realName": "柴艳华",
+    "userName": "CYH11421",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ce3ea1d7-a8f6-45e7-b3ba-e8965a255570",
+    "department": "12312"
+  },
+  {
+    "id": "83ead000-d8a9-4a10-9def-ce9fc94100c0",
+    "realName": "侯国强",
+    "userName": "HGQ7788",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/83ead000-d8a9-4a10-9def-ce9fc94100c0",
+    "department": "12312"
+  },
+  {
+    "id": "61d441bc-30e5-49c2-bd11-3c6e8758cb25",
+    "realName": "弓颋",
+    "userName": "GC9935",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/61d441bc-30e5-49c2-bd11-3c6e8758cb25",
+    "department": "12312"
+  },
+  {
+    "id": "61a7eb0a-094b-4be7-a30c-627144de723b",
+    "realName": "李梦浩",
+    "userName": "LMH10385",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/61a7eb0a-094b-4be7-a30c-627144de723b",
+    "department": "12312"
+  },
+  {
+    "id": "182019ec-89cb-41f2-b031-da02033611b4",
+    "realName": "麻栋",
+    "userName": "MD11600",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/182019ec-89cb-41f2-b031-da02033611b4",
+    "department": "12312"
+  },
+  {
+    "id": "68ec7e9f-d517-49ff-81f9-d8dd92276306",
+    "realName": "王先锋",
+    "userName": "WXF4923",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/68ec7e9f-d517-49ff-81f9-d8dd92276306",
+    "department": "12312"
+  },
+  {
+    "id": "beb541ca-b9fb-4e5c-9c3e-d009f2290040",
+    "realName": "郑方峰",
+    "userName": "ZFF11422",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/beb541ca-b9fb-4e5c-9c3e-d009f2290040",
+    "department": "12312"
+  },
+  {
+    "id": "a456a32d-92d8-451a-a732-f7a90bc07f41",
+    "realName": "张瑷博",
+    "userName": "ZAB10500",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a456a32d-92d8-451a-a732-f7a90bc07f41",
+    "department": "12312"
+  },
+  {
+    "id": "08d37cda-5955-4690-8d29-2b2809f7c257",
+    "realName": "刘璐璐",
+    "userName": "LLL11259",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/08d37cda-5955-4690-8d29-2b2809f7c257",
+    "department": "12312"
+  },
+  {
+    "id": "3d02422b-1e3f-4634-89f2-474efab9d2b8",
+    "realName": "马兴",
+    "userName": "MX11505",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/3d02422b-1e3f-4634-89f2-474efab9d2b8",
+    "department": "12312"
+  },
+  {
+    "id": "1eac2cfe-1961-42aa-862b-37f1bd03e81b",
+    "realName": "李晓楠",
+    "userName": "LXN7615",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/1eac2cfe-1961-42aa-862b-37f1bd03e81b",
+    "department": "12312"
+  },
+  {
+    "id": "62175aa1-75c8-40e7-b915-1ee3f4b12247",
+    "realName": "崔明飞",
+    "userName": "CMF9876",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/62175aa1-75c8-40e7-b915-1ee3f4b12247",
+    "department": "12312"
+  },
+  {
+    "id": "1c8a371e-1c6f-4e84-bc18-7350ab29cc80",
+    "realName": "雷瀚琳",
+    "userName": "LHL11675",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/1c8a371e-1c6f-4e84-bc18-7350ab29cc80",
+    "department": "12312"
+  },
+  {
+    "id": "ccaa5f0c-82cd-4293-8c88-5b9115e0f138",
+    "realName": "张钊源",
+    "userName": "ZZY7206",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ccaa5f0c-82cd-4293-8c88-5b9115e0f138",
+    "department": "12312"
+  },
+  {
+    "id": "1adee8e2-08d2-449c-97ad-4cbde1223adb",
+    "realName": "罗晓斌",
+    "userName": "LXB10312",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/1adee8e2-08d2-449c-97ad-4cbde1223adb",
+    "department": "12312"
+  },
+  {
+    "id": "488c8e96-e771-4591-a03f-f0e13ad27862",
+    "realName": "田磊",
+    "userName": "TL10405",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/488c8e96-e771-4591-a03f-f0e13ad27862",
+    "department": "12312"
+  },
+  {
+    "id": "fa674b2b-0f99-450e-9cc2-b52043a060ce",
+    "realName": "张永航",
+    "userName": "ZYH7641",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/fa674b2b-0f99-450e-9cc2-b52043a060ce",
+    "department": "12312"
+  },
+  {
+    "id": "19fd7b61-6844-4be6-b600-cd5cfdddce85",
+    "realName": "任敬涛",
+    "userName": "RJT7743",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/19fd7b61-6844-4be6-b600-cd5cfdddce85",
+    "department": "12312"
+  },
+  {
+    "id": "428fe802-a9ce-4cf4-b6b6-154279fc572d",
+    "realName": "刘朋真",
+    "userName": "LPZ6076",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/428fe802-a9ce-4cf4-b6b6-154279fc572d",
+    "department": "12312"
+  },
+  {
+    "id": "8c301b6f-eec3-429c-9576-d0a2e21c495f",
+    "realName": "李停",
+    "userName": "LT11026",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/8c301b6f-eec3-429c-9576-d0a2e21c495f",
+    "department": "12312"
+  },
+  {
+    "id": "9c2c9662-3948-489d-910d-a03ee79cc097",
+    "realName": "孟祥凤",
+    "userName": "MENGXF",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/9c2c9662-3948-489d-910d-a03ee79cc097",
+    "department": "12312"
+  },
+  {
+    "id": "a5b8bc53-2de1-49a1-af30-073a01b6c1e6",
+    "realName": "商谦",
+    "userName": "SQ10325",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a5b8bc53-2de1-49a1-af30-073a01b6c1e6",
+    "department": "12312"
+  },
+  {
+    "id": "51be1c81-8e52-4772-a295-1b2b640a450c",
+    "realName": "赵哲理",
+    "userName": "ZZL11278",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/51be1c81-8e52-4772-a295-1b2b640a450c",
+    "department": "12312"
+  },
+  {
+    "id": "d8871b92-8c0c-4189-90a9-883091481ad9",
+    "realName": "尤广学",
+    "userName": "YOUGX",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/d8871b92-8c0c-4189-90a9-883091481ad9",
+    "department": "12312"
+  },
+  {
+    "id": "ed7ba796-84c3-4548-905a-77630df84c44",
+    "realName": "张志芹",
+    "userName": "ZZQ7759",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ed7ba796-84c3-4548-905a-77630df84c44",
+    "department": "12312"
+  },
+  {
+    "id": "bb91a8f0-5311-43fe-ba95-c84999b9471c",
+    "realName": "王艳云",
+    "userName": "WYY11317",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/bb91a8f0-5311-43fe-ba95-c84999b9471c",
+    "department": "12312"
+  },
+  {
+    "id": "1ec7d018-47a3-48ef-b269-e2a94c9770df",
+    "realName": "吕强",
+    "userName": "LQ10139",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/1ec7d018-47a3-48ef-b269-e2a94c9770df",
+    "department": "12312"
+  },
+  {
+    "id": "c186c94f-3145-4436-8c01-e2d4ad7f1be8",
+    "realName": "游洪峰",
+    "userName": "YOUHF",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/c186c94f-3145-4436-8c01-e2d4ad7f1be8",
+    "department": "12312"
+  },
+  {
+    "id": "ccb6328b-5a4f-4605-be8b-c876c4d1d359",
+    "realName": "谢法奎",
+    "userName": "XIEFK",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ccb6328b-5a4f-4605-be8b-c876c4d1d359",
+    "department": "12312"
+  },
+  {
+    "id": "5cb43c83-710c-4df0-ab5b-000299b6665b",
+    "realName": "谢一鸣",
+    "userName": "XYM11358",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/5cb43c83-710c-4df0-ab5b-000299b6665b",
+    "department": "12312"
+  },
+  {
+    "id": "1425bd35-76e2-436e-a6c1-62b22ecaa25b",
+    "realName": "赵一曼",
+    "userName": "ZYM7389",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/1425bd35-76e2-436e-a6c1-62b22ecaa25b",
+    "department": "12312"
+  },
+  {
+    "id": "2dd47783-72d5-41f9-86e8-fb262141adfd",
+    "realName": "廖先富",
+    "userName": "LIAOXF",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/2dd47783-72d5-41f9-86e8-fb262141adfd",
+    "department": "12312"
+  },
+  {
+    "id": "451f4ba7-bc07-4881-8de5-bb5071ee1256",
+    "realName": "赵正青",
+    "userName": "ZHAOZQ",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/451f4ba7-bc07-4881-8de5-bb5071ee1256",
+    "department": "12312"
+  },
+  {
+    "id": "247bf4d0-6f0c-42bd-8057-2f66fd671a42",
+    "realName": "郝婧",
+    "userName": "HJX0695",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/247bf4d0-6f0c-42bd-8057-2f66fd671a42",
+    "department": "12312"
+  },
+  {
+    "id": "25578f80-9407-4359-8df1-e0501120609b",
+    "realName": "张宇",
+    "userName": "ZY11599",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/25578f80-9407-4359-8df1-e0501120609b",
+    "department": "12312"
+  },
+  {
+    "id": "e225ba27-e70a-425b-8790-e78efeaf7b43",
+    "realName": "门金亮",
+    "userName": "MJL11039",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/e225ba27-e70a-425b-8790-e78efeaf7b43",
+    "department": "12312"
+  },
+  {
+    "id": "dd37e646-449e-4592-9b34-9b62b750eeb7",
+    "realName": "郭曼",
+    "userName": "GMX1142",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/dd37e646-449e-4592-9b34-9b62b750eeb7",
+    "department": "12312"
+  },
+  {
+    "id": "7b587e9b-d04d-41b9-a78a-04edd4e18c81",
+    "realName": "史阳艳",
+    "userName": "SYY7407",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/7b587e9b-d04d-41b9-a78a-04edd4e18c81",
+    "department": "12312"
+  },
+  {
+    "id": "62a65cd7-3740-451a-890d-9d12fdd2d6eb",
+    "realName": "程光",
+    "userName": "CHENGGUANG",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/62a65cd7-3740-451a-890d-9d12fdd2d6eb",
+    "department": "12312"
+  },
+  {
+    "id": "127068bd-a06d-4f2c-8d9f-4fd5b701fe5f",
+    "realName": "张素宁",
+    "userName": "ZSN8284",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/127068bd-a06d-4f2c-8d9f-4fd5b701fe5f",
+    "department": "12312"
+  },
+  {
+    "id": "83f6edd4-b6f1-46c0-a596-571a7bd764cc",
+    "realName": "张建凤",
+    "userName": "ZJF6658",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/83f6edd4-b6f1-46c0-a596-571a7bd764cc",
+    "department": "12312"
+  },
+  {
+    "id": "47262ad9-28a3-4998-85e2-a8fb98ec5d4b",
+    "realName": "陶红燕",
+    "userName": "THY8306",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/47262ad9-28a3-4998-85e2-a8fb98ec5d4b",
+    "department": "12312"
+  },
+  {
+    "id": "659f9b1d-8c9d-4506-ad4e-93bdccb60e55",
+    "realName": "安彤",
+    "userName": "ANTONG",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/659f9b1d-8c9d-4506-ad4e-93bdccb60e55",
+    "department": "12312"
+  },
+  {
+    "id": "6847464c-261b-47f9-a9e4-4e74e126b8f1",
+    "realName": "张福壮",
+    "userName": "ZFZ8595",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/6847464c-261b-47f9-a9e4-4e74e126b8f1",
+    "department": "12312"
+  },
+  {
+    "id": "09f1f485-ce18-4850-8100-42a8f4814e06",
+    "realName": "张瑜8450",
+    "userName": "ZY8450",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/09f1f485-ce18-4850-8100-42a8f4814e06",
+    "department": "12312"
+  },
+  {
+    "id": "ed0e4651-208b-4087-b2e9-c67378ddb419",
+    "realName": "王潇",
+    "userName": "WX11041",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/ed0e4651-208b-4087-b2e9-c67378ddb419",
+    "department": "12312"
+  },
+  {
+    "id": "bfcf56a9-2af0-41d9-b096-7967fadee7f4",
+    "realName": "张馨",
+    "userName": "ZX6127",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/bfcf56a9-2af0-41d9-b096-7967fadee7f4",
+    "department": "12312"
+  },
+  {
+    "id": "f506e43b-6540-43e8-a6c4-baa1438f93b2",
+    "realName": "韩炜烨",
+    "userName": "HWY10975",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/f506e43b-6540-43e8-a6c4-baa1438f93b2",
+    "department": "12312"
+  },
+  {
+    "id": "48bb10fd-0a1c-431b-97d0-d76c984c9887",
+    "realName": "宋菲菲",
+    "userName": "SFF6331",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/48bb10fd-0a1c-431b-97d0-d76c984c9887",
+    "department": "12312"
+  },
+  {
+    "id": "20fa8cc5-f9ae-48ec-a50a-65156bf44c8e",
+    "realName": "苏攀",
+    "userName": "SP11744",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/20fa8cc5-f9ae-48ec-a50a-65156bf44c8e",
+    "department": "12312"
+  },
+  {
+    "id": "056295e2-eb36-4dbf-ac7f-16aeabf8078d",
+    "realName": "范文",
+    "userName": "FW7500",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/056295e2-eb36-4dbf-ac7f-16aeabf8078d",
+    "department": "12312"
+  },
+  {
+    "id": "f0d096ab-1417-4d92-97d6-4f510f71a8bb",
+    "realName": "单智",
+    "userName": "SZ6298",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/f0d096ab-1417-4d92-97d6-4f510f71a8bb",
+    "department": "12312"
+  },
+  {
+    "id": "7dad023e-8215-4d3a-9563-29d312862467",
+    "realName": "李凌翔",
+    "userName": "LLX9194",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/7dad023e-8215-4d3a-9563-29d312862467",
+    "department": "12312"
+  },
+  {
+    "id": "a99799ee-6a47-4a44-95ad-c6de602d3d04",
+    "realName": "申志云",
+    "userName": "SZY9393",
+    "type": 0,
+    "pId": "0998de54-40f3-48a7-b8c0-abf7909ded1e",
+    "logo": "http://oaokcs.cnki.net/sso/pic/a99799ee-6a47-4a44-95ad-c6de602d3d04",
+    "department": "12312"
+  },
+  {
+    "id": "452a1f80-4ae9-4867-8b92-6041d13a48c8",
+    "realName": "测试导入word",
+    "pId": "",
+    "type": 1
+  },
+  {
+    "id": "86f4711c-b896-4048-b951-a1dc70527dfd",
+    "realName": "王旭12331",
+    "userName": "WX12331",
+    "type": 0,
+    "pId": "452a1f80-4ae9-4867-8b92-6041d13a48c8",
+    "logo": "http://oaokcs.cnki.net/sso/pic/86f4711c-b896-4048-b951-a1dc70527dfd",
+    "department": "测试导入word"
+  }
+]

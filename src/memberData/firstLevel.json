@@ -1,0 +1,45 @@
+[
+    {
+        "id": "2adf361e-5d48-4c72-a4e3-8216dfe31b9c",
+        "pId": "717f0218-0a7b-46d7-9ed2-d277d8f0d842",
+        "realName": "知网",
+        "logo": null,
+        "type": 1,
+        "department": null
+    },{
+        "id": "a06a0254-2b09-4b59-9865-214cc8245ebe",
+        "pId": "717f0218-0a7b-46d7-9ed2-d277d8f0d842",
+        "realName": "山西知网",
+        "logo": null,
+        "type": 1,
+        "department": null
+    },{
+        "id": "d37018f1-935b-4079-832c-7ae7f75d551b",
+        "pId": "717f0218-0a7b-46d7-9ed2-d277d8f0d842",
+        "realName": "山西印厂",
+        "logo": null,
+        "type": 1,
+        "department": null
+    },{
+        "id": "a18f76c1-7658-4e82-bd29-b420854291d1",
+        "pId": "717f0218-0a7b-46d7-9ed2-d277d8f0d842",
+        "realName": "新型职业农民课题组",
+        "logo": null,
+        "type": 1,
+        "department": null
+    },{
+        "id": "0e245ebc-ddbd-473e-967f-b05b2bd0621e",
+        "pId": "717f0218-0a7b-46d7-9ed2-d277d8f0d842",
+        "realName": "演示",
+        "logo": null,
+        "type": 1,
+        "department": null
+    }, {
+        "id": "4685e1e6-9109-4161-bb86-961c9766bb56",
+        "pId": "717f0218-0a7b-46d7-9ed2-d277d8f0d842",
+        "realName": "第三届军民融合展览协同组",
+        "logo": null,
+        "type": 1,
+        "department": null
+    }
+]
